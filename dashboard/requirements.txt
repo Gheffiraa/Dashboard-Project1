@@ -1,6 +1,5 @@
 numpy
 pandas
 seaborn
-os
 matplotlib
 plotly.express
