@@ -3,4 +3,12 @@ The dataset tells us about air quality in Beijing. There are measurement of 6 ma
 
 
 ## Modules Requirement
+```
+conda activate main-ds
 pip install numpy pandas matplotlib seaborn streamlit statsmodel plotly Pillow
+```
+
+## Run Streamlit
+```
+streamlit run dashboard/Project1.py
+```
